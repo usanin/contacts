@@ -1,0 +1,7 @@
+<img class="card-img-top" src="{pic}" alt="{name}">
+<div class="card-block">
+    <h4 class="card-title">{name}</h4>
+    <p>Phone: {phone}</p>
+    <p>Group: <{group}</p>
+    <button type="button" class="btn btn-danger delete">Delete</button>
+</div>
